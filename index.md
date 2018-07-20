@@ -28,4 +28,7 @@ layout: home
 3. Star the GitHub Repo [GitHub](https://github.com/temekuweb) (optional)
 4. Attend a Meet Up
 
-
+## Links
+### VPS Referral Links
+[DigitalOcean](https://m.do.co/c/d3dc74f52233) - Free $10 Credit
+[Vultr](https://www.vultr.com/?ref=7046558) - Free $10 Credit
